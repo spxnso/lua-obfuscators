@@ -1,9 +1,8 @@
 --!nolint
 --[[
-    filename: sample.obf.lua
-    source: <link>
+    filename: hello_world.lua
     obfuscator: ironbrew2 v2.7.0
-    author: Defcon42
+    author: spxnso
     purpose: Print demonstration
     notes: Removed watermark and fixed for Luau-lsp
     lua-version: Lua 5.1.5, Luau 0.699

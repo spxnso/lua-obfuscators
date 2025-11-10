@@ -15,3 +15,10 @@ IronBrew2 is a VM-based Lua obfuscator (historically targeting Lua 5.1).
 
 ### v2.7.0
 - No informations to display.
+
+## Dork used
+I usually use google dorking to find samples:
+
+```
+intext:"IronBrew" ext:lua OR ext:txt site:raw.githubusercontent.com
+```
