@@ -18,6 +18,7 @@ Inspired by the [portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) l
 ## Table of Contents
 
 - [IronBrew2](/obfuscators/ironbrew2/README.md)
+- [Moonsec](/obfuscators/moonsec/README.md)
 
 ## Contributing
 
