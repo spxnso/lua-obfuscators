@@ -14,7 +14,7 @@ Inspired by the [portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) l
 ## Table of Contents
 
 - [IronBrew2](/obfuscators/ironbrew2/README.md)
-
+- [Prometheus](/obfuscators/prometheus/prometheus.lua)
 ## Contributing
 
 Contributions are welcome!
