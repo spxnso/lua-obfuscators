@@ -19,6 +19,7 @@ Inspired by the [portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) l
 
 - [IronBrew2](/obfuscators/ironbrew2/README.md)
 - [Moonsec](/obfuscators/moonsec/README.md)
+- [Aztupbrew](/obfuscators/aztupbrew/README.md)
 
 ## Contributing
 
