@@ -2,7 +2,7 @@
 
 
 **Slug:** `Aztupbrew`  
-**Author:** Aztup
+**Author:** Aztup  
 **Supported runtimes:** Lua 5.1
 
 ---
