@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 <p align="center">
   <a href="https://github.com/spxnso/lua-obfuscators" target="_blank">
-    <img width="500" src="./assets/luraphv14.png" alt="lua-obfuscators">
+    <img width="500" src="./assets/cover.png" alt="lua-obfuscators">
   </a>
 </p>
 
